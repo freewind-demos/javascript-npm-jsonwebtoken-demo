@@ -1,8 +1,8 @@
 {
-    "scripts": {
-        "start": "node hello.js"
-    },
-    "dependencies": {
-        "jsonwebtoken": "^8.3.0"
-    }
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "dependencies": {
+    "jsonwebtoken": "8.3.0"
+  }
 }
